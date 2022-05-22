@@ -5,7 +5,7 @@
 相关目录正在建设中...
 
 ## 目录
-### [1. 数据结构](url)
+### [1. 数据结构](https://github.com/AdorableLake/408_Questions/tree/main/Data_Structure)
 ### [2. 计算机组成原理](url)
 ### [3. 操作系统](url)
 ### [4. 计算机网络](url)
