@@ -3,7 +3,8 @@
 
 [Chapter 3](url)
 
-# Chapter 2 Liner List|线性表
+# Chapter 2 
+Liner List|线性表
 
 ## 2.2.3 Liner List|线性表
 04. 若线性表最常用的操作是存取第i个元素及其前驱和后继元素的值，为了提高效率，应采用（ ）的存储方式。
@@ -48,6 +49,8 @@ B. 1<=i<=n+1
 C. 0<=i<=n-1    
 D. 0<=i<=n
 ```
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
 
 ## 2.3.7 Link List|单链表
 05. 设线性表中有 2n 个元素，（ ）在单链表上实现要比顺序表上实现效率更高
@@ -167,7 +170,11 @@ C. 只有头结点指针没有尾结点指针的循环双链表
 D. 既有尾结点指针又有头结点指针的循环单链表
 ```
 
-# Chapter 3 Stack/Sequeue/Number Array|栈、队列和数组
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
+
+# Chapter 3 
+Stack/Sequeue/Number Array|栈、队列和数组
+
 ## 3.1.4 Stack|栈
 01. 栈和队列具有相同的（ ）
 
@@ -238,6 +245,8 @@ B. n-2
 C. n-1
 D. 无法确定
 ```
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
 
 ## 3.2.5 Queue|队列
 02. 队列的“先进先出”特性是指（ ）
@@ -317,6 +326,8 @@ C. 4
 D. 5
 ```
 
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
+
 ## 3.3.6 Queue|队列
 04. 利用栈求表达式的值时，设立运算数栈 OPEN。假设 OPEN 只有两个存储单元，则在下列表达式中，不会发生溢出的是（ ）
 
@@ -362,3 +373,5 @@ B. +(-*
 C. /+(*-*
 D. /+-*
 ```
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
