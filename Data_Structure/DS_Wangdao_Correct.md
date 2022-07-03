@@ -375,3 +375,80 @@ D. /+-*
 ```
 
 [返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
+
+# Chapter 4
+
+## 4.2.4 String｜串
+06. 串 'ababaaababaa' 的 next 数组为（ ）
+
+```
+A. -1,0,1,2,3,4,5,6,7,8,8,8
+B. -1,0,1,0,1,0,0,0,0,1,0,1
+C. -1,0,0,1,2,3,1,1,2,3,4,5
+D. -1,0,1,2,-1,0,1,2,1,1,2,3
+```
+
+07. 串 'ababaaababaa' 的 nextvar 数组为（ ）
+
+```
+A. 0,1,0,1,1,2,0,1,0,1,0,2
+B. 0,1,0,1,1,4,1,1,0,1,0,2
+C. 0,1,0,1,0,4,2,1,0,1,0,4
+D. 0,1,1,1,0,2,1,1,0,1,0,4
+```
+
+08. 「2015真题」已知字符串 S 为 'abaabaabacacaabaabcc'，模式串 t 为 'abaabc' 。采用 KMP 算法进行匹配，第一次出现“失配”（s[i]!=t[j]）时，i=j=5，则下次开始匹配时，i、j分别是（ ）
+
+```
+A. i=1, j=0
+B. i=5, j=0
+C. i=5, j=2
+D. i=6, j=2
+```
+
+09. 「2019真题」设主串 T='abaabaabcabaabc'，模式串 S='abaabc'，采用 KMP 算法进行模式匹配，到匹配成功为止，在匹配过程中进行的单个字符间的比较次数是（ ）
+
+```
+A. 9
+B. 10
+C. 12
+D. 15
+```
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
+
+# Chapter 5
+
+## 5.1.4 Tree & Binary Tree | 树与二叉树
+### 选择题
+02. 一颗有 n 个结点的树的所有结点的度数之和为（ ）
+
+```
+A. n-1
+B. n
+C. n+1
+D. 2n
+```
+
+04. 对于一棵具有 n 个结点、度为4的树来说，（ ）
+
+```
+A. 树的高度至多是 n-3
+B. 树的高度至多是 n-4
+C. 第 i 层上至多有 4*(i-1)
+D. 至少在某一层上正好有 4 个结点
+```
+
+06. 假定一棵度为3的树中，结点数为50，则其最小高度为（ ）
+
+```
+A. 3
+B. 4
+C. 5
+D. 6
+```
+
+### 综合题
+01. 含有 n 个结点的三叉树的最小高度是？
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
