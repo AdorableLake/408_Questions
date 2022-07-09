@@ -3,6 +3,10 @@
 
 [Chapter 3](url)
 
+[Chapter 4](url)
+
+[Chapter 5](url)
+
 # Chapter 2 
 Liner List|线性表
 
@@ -372,6 +376,48 @@ A. +(*-
 B. +(-*
 C. /+(*-*
 D. /+-*
+```
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
+
+## 3.4.5 Martix & Number Array | 矩阵和数组
+06. 若将 n 阶上三角矩阵 A 按列优先级压缩存放在一维数组 `B[1...n(n+1)/2+1]` 中，则存放到 `B[k]` 中的非零元素 `ai,j (1=<i,j=<n)` 的下标 i、j 与 k 的对应关系是（ ）
+
+```
+A. i(i+1)/2+j
+B. i(i-1)/2+j-1
+C. j(j-1)/2+i
+D. j(j-1)/2+i-1
+```
+
+07. 若将 n 阶下三角矩阵 A 按列优先顺序压缩存放在一维数组 `B[1...n(n+1)/2+1]` 中，则存放到 `B[k]` 中的非零元素 `ai,j (1=<i,j=<n)` 的下标 i、j 与 k 的对应关系是（ ）
+
+```
+A. (j-1)*(2n-j+1)/2+i-j
+B. (j-1)*(2n-j+2)/2+i-j+1
+C. (j-1)*(2n-j+2)/2+i-j
+D. (j-1)*(2n-j+1)/2+i-j-1
+```
+
+08. 「2016真题」有一个 100 阶的三对角矩阵 M，其元素 `mi,j (1=<i,j=<100)` 按行优先依次压缩存入下标从 0 开始的一维数组 N 中。元素 `m30,30` 在 N 中的下标是（ ）
+
+```
+// 计算错误
+// 2*1+28*3+2-1=87
+
+A. 86
+B. 87
+C. 88
+D. 89
+```
+
+10. 「2018真题」设有一个 12*12 的对称矩阵 M，将其上三角部分的元素 `mi,j (1 =< i =< j =< 12)` 按行优先顺序存入 C 语言的一维数组 N 中，元素 `m6,6` 在 N 中的下标是（ ）
+
+```
+A. 50
+B. 51
+C. 55
+D. 66
 ```
 
 [返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
