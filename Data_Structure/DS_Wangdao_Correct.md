@@ -7,6 +7,8 @@
 
 [Chapter 5](url)
 
+[Chapter 6](url)
+
 # Chapter 2 
 Liner List|线性表
 
@@ -812,6 +814,58 @@ A. 24，10，5 和 24，10，7
 B. 24，10，5 和 24，12，7
 C. 24，10，10 和 24，14，11
 D. 24，10，5 和 24，14，6
+```
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
+
+## 6.3.4 Traversal of Graph | 图的遍历
+05. 无向图 G = (V, E)，其中 V = {a,b,c,d,e,f}, E = {(a, b), (a, e), (a, c), (b, e), (c, f), (f, d), (e, d)}，对该图从 a 开始进行深度优先遍历，得到的顶点序列正确的是（ ）
+
+```
+// 对比09
+
+A. a,b,e,c,d,f
+B. a,c,f,e,b,d
+C. a,e,b,c,f,d
+D. a,e,d,f,c,b
+```
+
+06. 如下图所示，在下面的5个序列中，符合深度优先遍历的序列个数是（ ）
+
+```
+    a
+ /  |  \
+b - e   c
+   /  \
+  d    f
+
+1. aebfdc 2. acfdeb 3. adefcb 4. aefdbc 5. aecfdb
+
+A. 5
+B. 4
+C. 3
+D. 2
+```
+
+
+09.   无向图 G = (V, E)，其中 V = {a,b,c,d,e,f}, E = {(a, b), (a, e), (a, c), (b, e), (c, f), (f, d), (e, d)}，对该图从 a 开始进行深度优先遍历，不能得到的序列的是（ ）
+
+```
+// 对比05
+
+A. acfdeb
+B. aebdfc
+C. aedfcb
+D. abecdf
+```
+
+11. 使用 DFS 算法递归遍历一个无环有向图，并在退出递归时输出相应顶点，这样得到的顶点序列是（ ）
+
+```
+A. 逆拓扑排序
+B. 拓扑排序
+C. 无序的
+D. 都不是
 ```
 
 [返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
