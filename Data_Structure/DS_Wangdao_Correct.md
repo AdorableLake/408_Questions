@@ -1,13 +1,13 @@
 # Catalogue/目录
-[Chapter 2](url)
+[Chapter 2](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-2)
 
-[Chapter 3](url)
+[Chapter 3](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-3)
 
-[Chapter 4](url)
+[Chapter 4](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-4)
 
-[Chapter 5](url)
+[Chapter 5](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-5)
 
-[Chapter 6](url)
+[Chapter 6](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-6)
 
 # Chapter 2 
 Liner List|线性表
@@ -807,13 +807,104 @@ C. 树中两个权值最小的结点一定是兄弟结点
 D. 树中任意非叶结点的权值一定不小于下一层任意结点的权值
 ```
 
-13. 「2015真题」下列选项给出的是从根分别叨叨两个叶结点路径上的权值序列，属于同一棵哈夫曼树的是（ ）
+13. 「2015真题」下列选项给出的是从根分别达到两个叶结点路径上的权值序列，属于同一棵哈夫曼树的是（ ）
 
 ```
 A. 24，10，5 和 24，10，7
 B. 24，10，5 和 24，12，7
 C. 24，10，10 和 24，14，11
 D. 24，10，5 和 24，14，6
+```
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
+
+# Chapter 6
+
+## 6.1.2  Concept of Graph | 图的概念
+01. 图中有关路径的定义是（ ）
+
+```
+A. 由顶点和相邻顶点序列构成的边所形成的序列
+B. 由不同顶点所形成的序列
+C. 由不同边所形成的的序列
+D. 上述定义都不是
+```
+
+03. 若从无向图的任意顶点出发进行一次深度优先搜索即可访问所有顶点，则该图一定是（ ）
+
+```
+A. 强连通图
+B. 连通图
+C. 有回路
+D. 一棵树
+```
+
+12. 若具有 n 个顶点的图是一个环，则它有（ ）棵生成树
+```
+A. n^2
+B. n
+C. n-1
+D. 1
+```
+
+13. 若一个具有 n 个顶点、e 条边的无向图是一个森林，则该森林中必有（ ）棵树
+```
+A. n
+B. e
+C. n-e
+D. 1
+```
+
+17. 「2013真题」设图的邻接矩阵 A 如下所示，各顶点的度依次是（ ）
+```
+     ｜ 0 1 0 1 |
+A == ｜ 0 0 1 1 |
+     ｜ 0 1 0 0 |
+     ｜ 1 0 0 0 |
+
+A. 1,2,1,2
+B. 2,2,1,1
+C. 3,4,2,3
+D. 4,4,2,2
+```
+
+18. 「2017真题」已知无向图 G 含有 16 条边，其中度为 4 的顶点个数为 3，度为 3 的顶点个数为 4，其他顶点的度均小于 3。图 G 所含的顶点个数至少是（ ）
+
+```
+A. 10
+B. 11
+C. 13
+D. 15
+```
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
+
+## 6.2.6 Storage Structure and Operation of Graph | 图的存储结构和基本操作
+11. 在有向图的邻接表存储结构中，顶点 v 在边表中出现的次数是（ ）
+
+```
+A. 顶点 v 的度
+B. 顶点 v 的出度
+C. 顶点 v 的入度
+D. 依附于顶点 v 的边数
+```
+
+12. n 个顶点的无向图的邻接表最多有（ ）个边表结点。
+
+```
+A. n^2
+B. n*(n-1)
+C. n*(n+1)
+D. n*(n-1)/2
+```
+
+13. 假设有 n 个顶点、e 条边的有向图用邻接表表示，则删除与某个顶点 v 相关的所有边的时间复杂度（ ）
+
+```
+A. O(n)
+B. O(e)
+C. O(n+e)
+D. O(n*e)
 ```
 
 [返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
