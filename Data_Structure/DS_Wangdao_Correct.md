@@ -33,11 +33,13 @@
 
 ## [Chapter 6](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-6)
 
-[6.1.2](url)
+[6.1.2](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#612--concept-of-graph--图的概念)
 
-[6.2.6](url)
+[6.2.6](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#626-storage-structure-and-operation-of-graph--图的存储结构和基本操作)
 
-[6.3.4](url)
+[6.3.4](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#634-traversal-of-graph--图的遍历)
+
+[6.4.6](url)
 
 # Chapter 2 
 Liner List|线性表
