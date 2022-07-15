@@ -31,7 +31,7 @@
 
 [5.5.3](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#553-huffman-tree-unionfind-sets--哈夫曼树以及并查集)
 
-## [Chapter 6](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-6)
+## [Chapter 6](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-6-1)
 
 [6.1.2](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#612--concept-of-graph--图的概念)
 
