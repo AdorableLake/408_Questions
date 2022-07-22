@@ -41,6 +41,12 @@
 
 [6.4.6](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#646-application-of-graph--图的应用)
 
+# [Chapter 7](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-7-1)
+
+[7.2.4](url)
+
+[7.3.4](url)
+
 # Chapter 2 
 Liner List|线性表
 
@@ -1161,6 +1167,137 @@ A. 26,3,14,6
 B. 25,3,14,6
 C. 21,3,14,6
 D. 15,3,14,6
+```
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
+
+# Chapter 7
+
+## 7.2.4 Liner Search & Binary Search & Blocked Search ｜ 顺序查找&折半查找&分块查找
+13. 具有 12 个关键字的有序表中，对每个关键字的查找概率相同，折半查找算法查找成功的平均查找长度为（ ），折半查找查找失败的平均查找长度为（ ）
+
+```
+A. 37/12
+B. 35/12
+C. 39/13
+D. 49/13
+```
+
+19. 「2015真题」下列选项中，不能构成折半查找中关键字比较序列的是（ ）
+
+```
+A. 500, 200, 450, 180
+B. 500, 450, 200, 180
+C. 180, 500, 200, 450
+D. 180, 200, 500, 450
+```
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
+
+## 7.3.4 Search Tree | 树型查找
+11. 含有 20 个结点的平衡二叉树的最大深度为（ ）
+
+```
+A. 4
+B. 5
+C. 6
+D. 7
+```
+
+12. 具有 5 层结点的 AVL 至少有（ ）个结点
+
+```
+A. 10
+B. 12
+C. 15
+D. 17
+```
+
+14. 下列关于红黑树和 AVL 的描述中，不正确的是（ ）
+
+```
+A. 两者都属于自平衡二叉树
+B. 两者查找、插入、删除的时间复杂度都相同
+C. 红黑树插入和删除过程至多有 2 次旋转操作
+D. 红黑树的任意结点的左右子树高度只差不超过2倍
+```
+
+16. 将关键字 1,2,3,4,5,6,7 依次插入初始为空的红黑树 T，则 T 中红结点的个数为（ ）
+
+```
+A. 1
+B. 2
+C. 3
+D. 4
+```
+
+17. 将关键字 5,4,3,2,1 依次插入初始为空的红黑树 T，则 T 的最终形态是（ ）
+
+```
+A.
+       3(Black)
+       /      \
+  2(Black)    5(Black)
+    /          /
+1(Red)       4(Red)
+
+B.
+       3(Black)
+       /      \
+  2(Black)   4(Black)
+    /           \
+1(Red)         5(Red)
+
+C.
+     2(Black)
+    /        \
+1(Black)    4(Black)
+            /      \
+        3(Red)    5(Red)
+
+D.
+        4(Black)
+        /      \
+    2(Black)   5(Black)
+    /     \
+1(Red)   3(Red)
+```
+
+19. 「2010真题」在下图所示的平衡二叉树中插入关键字 48 后得到一颗新平衡二叉树，在新平衡二叉树中，关键字 37 所在结点的左、右子结点保存的关键字分别是（ ）
+
+```
+   24
+ /    \
+13    53
+     /  \
+    37  90
+
+A. 13,48
+B. 24,48
+C. 24,53
+D. 24,90
+```
+
+21. 「2012真题」若平衡二叉树的高度为 6，且所有非叶子结点的平衡因子均为 1，则该平衡二叉树的结点总数为（ ）
+
+```
+A. 12
+B. 20
+C. 32
+D. 33
+```
+
+26. 「2019真题」在任意一棵非空平衡二叉树 T1 中，删除某结点 v 之后形成平衡二叉树 T2，再将 v 插入 T2 形成平衡二叉树 T3。下列关于 T1 与 T3 的叙述中，正确的是（ ）
+
+```
+I.  若 v 是 T1 的叶结点，则 T1 与 T3 可能不相同
+II. 若 v 不是 T1 的叶结点，则 T1 与 T3 一定不相同
+III.若 v 不是 T1 的叶结点，则 T1 与 T3 一定相同
+
+A. I
+B. II
+C. I,II
+D. I,III
 ```
 
 [返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
