@@ -43,9 +43,13 @@
 
 # [Chapter 7](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-7-1)
 
-[7.2.4](url)
+[7.2.4](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#724-liner-search--binary-search--blocked-search--顺序查找折半查找分块查找)
 
-[7.3.4](url)
+[7.3.4](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#734-search-tree--树型查找)
+
+[7.4.3](url)
+
+[7.5.5](url)
 
 # Chapter 2 
 Liner List|线性表
