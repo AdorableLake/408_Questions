@@ -49,7 +49,7 @@
 
 [7.4.3](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#743-multi-balanced-search-treeb-tree--多路平衡查找树b树)
 
-[7.5.5](url)
+[7.5.5](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#755-hash-table--哈希查找)
 
 # Chapter 2 
 Liner List|线性表
@@ -1364,10 +1364,10 @@ D. 15
 15. 「2016真题」B+ 树不同于 B 树的特点之一是（ ）
 
 ```
-A.
-B.
-C.
-D.
+A. 能支持顺序查找
+B. 结点中含有关键字
+C. 根结点至少两个分支
+D. 所有叶结点都在同一层上
 ```
 
 17. 「2018真题」高度为 5 的 3 阶 B 树含有的关键字个数至少是（ ）
@@ -1395,6 +1395,54 @@ A. 11
 B. 10
 C. 9
 D. 8
+```
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
+
+## 7.5.5 Hash Table | 哈希查找
+08. 对包含 n 个元素的散列表进行查找，平均查找长度为（ ）
+
+```
+A. O(log2n)
+B. O(1)
+C. 不直接依赖 n
+D. 直接依赖表长 m
+```
+
+09. 采用开放定址法解决冲突的散列查找中，发生聚集的原因主要是（ ）
+
+```
+A. 数据元素过多
+B. 负载因子过大
+C. 散列函数选择不当
+D. 结局冲突的方法选择不当
+```
+
+16. 「2014真题」用哈希（散列）方法处理冲突（碰撞）时可能出现堆积（聚集）现象，写列选项中，会受堆积现象直接影响的是（ ）
+
+```
+A. 存储效率
+B. 散列函数
+C. 装填因子
+D. 平均查找长度
+```
+
+17. 「2018真题」现有长度为 7、初始为空的散列表 HT，散列函数 H(k)=k%7，用线性探测再散列法解决冲突。将关键字 23,43,15 依次插入 HT 后，查找成功的平均查找长度是（ ）
+
+```
+A. 1.5
+B. 1.6
+C. 2
+D. 3
+```
+
+18. 「2019真题」现有长度为 11 且初始为空的散列表 HT，散列函数时 H(key)=key%7，采用线性探查（线性探测再散列）解决冲突。将关键字序列 87,40,30,6,11,22,98,20 依次插入 HT 后，HT 查找失败的平均查找长度是（ ）
+
+```
+A. 4
+B. 5.25
+C. 6
+D. 6.29
 ```
 
 [返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
