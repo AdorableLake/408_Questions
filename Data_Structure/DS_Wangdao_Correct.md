@@ -1,11 +1,11 @@
 # Catalogue/目录
-## [Chapter 2：Liner Table | 线性表](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-2-1)
+## [Chapter 2：Liner Table | 线性表](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-2)
 
 [2.2.3](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#223-liner-list线性表)
   
 [2.3.7](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#237-link-list单链表)
 
-## [Chapter 3：Stack, Queue, Number Sets | 栈、队列和数组](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-3-1)
+## [Chapter 3：Stack, Queue, Number Sets | 栈、队列和数组](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-3)
 
 [3.1.4](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#314-stack栈)
 
@@ -15,11 +15,11 @@
 
 [3.4.5](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#345-martix--number-array--矩阵和数组)
 
-## [Chapter 4：String | 串](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-4-1)
+## [Chapter 4：String | 串](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-4)
 
 [4.2.4](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#424-string串)
 
-## [Chapter 5：Tree, Binary Tree | 树和二叉树](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-5-1)
+## [Chapter 5：Tree, Binary Tree | 树和二叉树](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-5)
 
 [5.1.4](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#514-tree--binary-tree--树与二叉树)
 
@@ -31,7 +31,7 @@
 
 [5.5.3](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#553-huffman-tree-unionfind-sets--哈夫曼树以及并查集)
 
-## [Chapter 6：Graph | 图](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-6-1)
+## [Chapter 6：Graph | 图](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-6)
 
 [6.1.2](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#612--concept-of-graph--图的概念)
 
@@ -41,7 +41,7 @@
 
 [6.4.6](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#646-application-of-graph--图的应用)
 
-## [Chapter 7：Search | 查找](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-7-1)
+## [Chapter 7：Search | 查找](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-7)
 
 [7.2.4](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#724-liner-search--binary-search--blocked-search--顺序查找折半查找分块查找)
 
@@ -51,7 +51,7 @@
 
 [7.5.5](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#755-hash-table--哈希查找)
 
-## [Chapter 8：Sort | 排序](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-8-1)
+## [Chapter 8：Sort | 排序](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-8)
 
 [8.1.2](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#812-concept-of-sort--排序的概念)
 
