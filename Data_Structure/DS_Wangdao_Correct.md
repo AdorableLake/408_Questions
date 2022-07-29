@@ -1725,3 +1725,40 @@ D. IV,V
 ```
 
 [返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
+
+## 8.7.6 Outer Sort | 外部排序
+02. 设有 5 哥初始归并段，每个归并段有 20 个记录，采用 5 路平衡归并排序，若不采用败者树，使用传统的顺序选出最小记录（简单选择排序）的方法，总的比较次数为（ 1 ）；若采用败者树最小的方法，总的比较次数约为（ 2 ）
+
+```
+A. 20
+B. 300
+C. 396
+D. 500
+```
+
+05. 在下列关于外部排序的过程输入/输出缓冲区作用的叙述中，不正确的是（ ）
+
+```
+A. 暂存输入/输出记录
+B. 内部归并的工作区
+C. 产生初始归并段的工作区
+D. 传送用户界面的消息
+```
+
+06. 在做 m 路平衡归并排序的过程中，为实现输入/内部归并/输出的并行处理，需要设置（ 1 ）个输入缓冲区和（ 2 ）个输出缓冲区
+
+```
+1. 
+A. 2 
+B. m
+C. 2m-1
+D. 2m
+
+2.
+A. 2
+B. m
+C. 2m-1
+D. 2m
+```
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
