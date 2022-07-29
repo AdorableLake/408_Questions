@@ -1446,3 +1446,17 @@ D. 6.29
 ```
 
 [返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
+
+# Chapter 8
+
+## 8.1.2 Concept of Sort | 排序的概念
+04. 对任意 7 个关键字进行基于比较的排序，至少要进行（ ）次关键字之间的两两比较
+
+```
+A. 13
+B. 14
+C. 15
+D. 6
+```
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
