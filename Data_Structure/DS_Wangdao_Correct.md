@@ -1633,3 +1633,26 @@ D. 9,6,7,5,8,4,1
 ```
 
 [返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
+
+## 8.5.3 Merge Sort & Radix Sort | 归并排序与基数排序
+03. 在皮下里排序算法中，平均情况下空间复杂度为 O(n) 的是（ ）；最坏情况下空间复杂度为 O(n) 的是（
+
+```
+I.希尔排序 II.堆排序 III.冒泡排序 IV.归并排序 V.快速排序 VI.基数排序
+
+A. I,IV,VI
+B. II,V
+C. IV,V
+D. IV
+```
+
+07. 将两个各有 N 个元素的有序表合并成一个有序表，最少的比较次数是（ ），最多的比较次数是（ ）
+
+```
+A. N
+B. 2N-1
+C. 2N
+D. N-1
+```
+
+[返回目录行](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#catalogue目录)
