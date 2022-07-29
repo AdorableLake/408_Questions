@@ -51,21 +51,21 @@
 
 [7.5.5](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#755-hash-table--哈希查找)
 
-# [Chapter 8](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-8-1)
+## [Chapter 8](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-8-1)
 
 [8.1.2](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#812-concept-of-sort--排序的概念)
 
-[8.2.4](url)
+[8.2.4](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#824-insert-sort--插入排序)
 
-[8.3.3](url)
+[8.3.3](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#833-exchange-sort--交换排序)
 
-[8.4.3](url)
+[8.4.3](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#843-select-sort--选择排序)
 
-[8.5.3](url)
+[8.5.3](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#853-merge-sort--radix-sort--归并排序与基数排序)
 
-[8.6.3](url)
+[8.6.3](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#863-inner-sort--内部排序比较)
 
-[8.7.6](url)
+[8.7.6](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#876-outer-sort--外部排序)
 
 # Chapter 2 
 Liner List|线性表
