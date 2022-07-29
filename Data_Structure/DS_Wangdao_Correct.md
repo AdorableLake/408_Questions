@@ -51,6 +51,22 @@
 
 [7.5.5](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#755-hash-table--哈希查找)
 
+# [Chapter 8]((https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-8-1)
+
+[8.1.2](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#812-concept-of-sort--排序的概念)
+
+[8.2.4](url)
+
+[8.3.3](url)
+
+[8.4.3](url)
+
+[8.5.3](url)
+
+[8.6.3](url)
+
+[8.7.6](url)
+
 # Chapter 2 
 Liner List|线性表
 
