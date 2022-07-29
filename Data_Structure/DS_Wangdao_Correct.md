@@ -51,7 +51,7 @@
 
 [7.5.5](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#755-hash-table--哈希查找)
 
-# [Chapter 8]((https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-8-1)
+# [Chapter 8](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#chapter-8-1)
 
 [8.1.2](https://github.com/AdorableLake/408_Questions/blob/main/Data_Structure/DS_Wangdao_Correct.md#812-concept-of-sort--排序的概念)
 
