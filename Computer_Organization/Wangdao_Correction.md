@@ -1,6 +1,6 @@
 # Catalog | 目录
 ## [Chapter 1](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-1-conception)
-[1.2.6](url)
+[1.2.6](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#126-level-structure--层次结构简述)
 
 [1.3.3](url)
 
@@ -106,6 +106,8 @@ B. 指令和数据的寻址方式
 C. 指令周期的不同阶段
 D. 指令和数据所在的存储单元
 ```
+
+[返回标题行](url)
 
 ## 1.3.3 Performance | 性能指标
 02. 存储字长是指（ ）
