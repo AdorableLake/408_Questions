@@ -2,7 +2,7 @@
 ## [Chapter 1](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-1-conception)
 [1.2.6](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#126-level-structure--层次结构简述)
 
-[1.3.3](url)
+[1.3.3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#133-performance--性能指标)
 
 # Chapter 1: Conception
 ## 1.2.6 Level Structure | 层次结构简述
