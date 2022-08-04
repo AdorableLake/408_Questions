@@ -4,8 +4,8 @@
 
 [1.3.3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#133-performance--性能指标)
 
-## [Chapter 2](url)
-[2.1.5](url)
+## [Chapter 2](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-2-data)
+[2.1.5](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#215-code--numeral-system-编码与数制)
 
 # Chapter 1: Conception
 ## 1.2.6 Level Structure | 层次结构简述
