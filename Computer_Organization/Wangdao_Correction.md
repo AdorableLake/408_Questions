@@ -2,14 +2,19 @@
 ## [Chapter 1](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-1-conception)
 [1.2.6](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#126-level-structure--层次结构简述)
 
-[1.3.3 ｜ 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#133-performance--性能指标)
+[1.3.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#133-performance--性能指标)
 
 ## [Chapter 2](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-2-data)
-[2.1.5 ｜ 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#215-code--numeral-system-编码与数制)
+[2.1.5 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#215-code--numeral-system-编码与数制)
 
-[2.2.7 ｜ 解析看到 24](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#227-calculation--运算方法)
+[2.2.7 解析看到 24](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#227-calculation--运算方法)
 
-[2.3.3 | 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#233-calculation-of-float--浮点数的计算)
+[2.3.3 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#233-calculation-of-float--浮点数的计算)
+
+## [Chapter 3](url)
+[3.1.4 解析已看完](url)
+
+[3.2.5 解析看到](url)
 
 # Chapter 1: Conception
 ## 1.2.6 Level Structure | 层次结构简述
@@ -784,6 +789,69 @@ A. -7 * 2^27
 B. -2^16
 C. 2^17
 D. 25 * 2^27
+```
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
+
+# Chapter 3: Storage
+## 3.1.4 Storage Level | 存储结构
+✅03. 设机器字长为 32 位，一个容量为 16MB 的存储器，CPU 按半字寻址，其可寻址的单元数是（ ）
+
+```
+A. 2^24
+B. 2^23
+C. 2^22
+D. 2^21
+```
+
+```
+16MB = 2^24B => N = (2^24B) / (2B) = 2^23 = 16M
+```
+
+✅04. 相联存储器是按（ ）进行寻址的存储器
+
+```
+A. 地址指定方式
+B. 堆栈存储方式
+C. 内容指定方式和堆栈存储方式相结合
+D. 内容指定方式和地址指定方式相结合
+```
+
+```
+相联存储器：将存储单元所存内容的某一部分作为检索项去检索该存储器，并将存储器中与该检索项符合的存储单元内容进行读出或写入。因此是按照内容指定和地址指定方式相结合的方式进行寻址的存储器
+```
+
+✅06. 若某存储器存储周期为 250ns，每次读出 16 位，该存储器的数据传输率是（ ）
+
+```
+A. 4 * 10^6 B/s
+B. 4 MB/s
+C. 8 * 10^6 B/s
+D. 8 * 2^20 B/s
+```
+
+```
+传输速率即带宽，每个存储周期读出 16bit = 2B
+
+BandWidth=(2B)/[250*10^(-9) s]=(8*10^6 B/s)=(8MB/s)
+
+注意区分数据传输中的单位和容量的二进位单位不一样
+```
+
+✅07. 设机器字长为 64 位，存储容量为 128MB，若按字编址，它可寻址的单元个数是（ ）
+
+```
+A. 16MB
+B. 16M
+C. 32M
+D. 32MB
+```
+
+```
+64bit = 8B => N = (128MB)/(8B) = (16M) 
+128MB = 2^27 * 8bit
+
+N = 2^27 * 8 / 64 = 2^24 = 16M 
 ```
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
