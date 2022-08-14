@@ -14,7 +14,7 @@
 ## [Chapter 3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-3-storage)
 [3.1.4 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#314-storage-level--存储结构)
 
-[3.2.5 解析看到](url)
+[3.2.5 解析未看完](url)
 
 # Chapter 1: Conception
 ## 1.2.6 Level Structure | 层次结构简述
@@ -852,6 +852,79 @@ D. 32MB
 128MB = 2^27 * 8bit
 
 N = 2^27 * 8 / 64 = 2^24 = 16M 
+```
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
+
+## 3.2.5 Main Storage | 主存储器
+09. 某一 DRAM 芯片，采用地址复用技术，其容量为 1024*8 位，除电源和接地端外，该芯片的引脚数最少是（ ）（读写控制线为两根）
+
+```
+A. 16
+B. 17
+C. 19
+D. 21
+```
+
+16. 一个四体并行低位交叉存储器，每个模块的容量是 64K*32 位，存取周期为 200ns，总线周期为 50ns，在下属说法中，（ ）是正确的
+
+```
+A. 在 200ns 内，存储器能向 CPU 提供 256 位二进制信息
+B. 在 200ns 内，存储器能向 CPU 提供 128 位二进制信息
+C. 在 50ns 内，每个模块能向 CPU 提供 32 位二进制信息
+D. 以上都不对
+```
+
+17. 某机器采用四体低位交叉存储器，现分别执行下述操作：
+    1. 读取 6 个连续地址单元存放的存储字，重复 80 次；
+    2. 读取 8 个连续地址单元存放的存储字，重复 60 次。
+
+    则 1,2花费时间之比为（ ）
+
+```
+A. 1:1
+B. 2:1
+C. 4:3
+D. 3:4
+``` 
+
+18. 下列说法中，正确的是（ ）
+
+```
+I.   高位多体交叉存储器能很好地满足程序的局部性原理
+II.  高位四体交叉存储器可能在一个存储周期内连续访问 4 个模块
+III. 双端口存储器可以同时访问同一区间、同一单元
+IV.  双端口存储器当两个端口的地址码相同时，必然会发生冲突
+
+A. I,III
+B. II,III
+C. II,III,IV
+D. III,IV
+```
+
+✅22. 「2014真题」某容量为 256MB 的存储器由若干 4M * 8bit 的 DRAM 芯片构成，该 DRAM 芯片的地址引脚和数据引脚总数是（ ）
+
+```
+A. 19
+B. 22
+C. 30
+D. 36
+```
+
+```
+4M * 8bit => N(data) = 8; N1(address) = log2(4M) = 22; 
+DRAM 采用地址复用技术 => N(address) = N1/2 = 11
+
+N = N(data)+N(address)=19
+```
+
+25. 「2017真题」某计算机主存按字节编址，由 4 个 64M * 8bit 的 DRAM 芯片采用交叉编址方式构成，并与宽度为 32 位的存储器总线相连，主存每次最多读写 32 位数据，若 double 型 变量 x 的主存地址为 804 001AH，则读取 x 需要的存储周期数是（ ）
+
+```
+A. 1
+B. 2
+C. 3
+D. 4
 ```
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
