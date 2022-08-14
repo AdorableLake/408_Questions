@@ -11,8 +11,8 @@
 
 [2.3.3 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#233-calculation-of-float--浮点数的计算)
 
-## [Chapter 3](url)
-[3.1.4 解析已看完](url)
+## [Chapter 3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-3-storage)
+[3.1.4 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#314-storage-level--存储结构)
 
 [3.2.5 解析看到](url)
 
