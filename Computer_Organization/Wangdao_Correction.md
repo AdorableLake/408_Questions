@@ -16,7 +16,7 @@
 
 [3.2.5 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#325-main-storage--主存储器)
 
-[3.3.5 解析未看完](url)
+[3.3.5 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#335-link-between-main-storage-and-cpu--主存储器和-cpu-的连接)
 
 # Chapter 1: Conception
 ## 1.2.6 Level Structure | 层次结构简述
