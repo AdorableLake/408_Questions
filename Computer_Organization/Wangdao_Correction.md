@@ -16,6 +16,8 @@
 
 [3.2.5 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#325-main-storage--主存储器)
 
+[3.3.5 解析未看完](url)
+
 # Chapter 1: Conception
 ## 1.2.6 Level Structure | 层次结构简述
 02.  冯·诺依曼机的基本工作方式是（ ）
@@ -925,6 +927,80 @@ A. 1
 B. 2
 C. 3
 D. 4
+```
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
+
+## 3.3.5 Link between Main Storage and CPU | 主存储器和 CPU 的连接
+02. 80386DX 是 32 位系统，以 4B 为编址单位，当在该系统中用 8KB（8K * 8 位）的存储芯片构造 32KB 的存储体时，应完成存储器的（ ）设计
+
+```
+A. 位扩展
+B. 字扩展
+C. 字位扩展
+D. 字位均不扩展
+```
+
+07. 地址总线 A0（高位）～ A15（低位），用 4K * 4 位的存储芯片组成 16KB 存储器，则产生片选信号的译码器的输入地址线应该是（ ）
+
+```
+A. A2A3
+B. A0A1
+C. A12A13
+D. A14A15
+```
+
+09. 内存按字节编址，地址从 90000H 到 CFFFFH，若用存储容量为 16K * 8 位芯片构成该内存，至少需要的芯片数是（ ）
+
+```
+A. 2
+B. 4
+C. 8
+D. 16
+```
+
+11. 如下图所示，若低位地址（A0～A11）接在内存芯片地址引脚上，高位地址（A12～A19）进行片选译码（其中 A14 和 A16 未参加译码），且片选信号低电平有效，则对图中所示的译码电路，不属于此译码空间的地址是（ ）
+
+```
+A19----------| & |
+A18--|>=1|---|   |
+A17--|   |---|   |
+                  o--译码输出
+A15----------|   |
+A13----------|   |
+A12----------|   |
+
+A. AB000H ~ ABFFFH
+B. BB000H ~ BBFFFH
+C. EF000H ~ EFFFFH
+D. FE000H ~ FEFFFH
+```
+
+13. 「2010真题」假定用若干 2K * 4 位的芯片组成一个 8K * 8 位的存储器，则地址 0B1FH 所在芯片的最小地址是（ ）
+
+```
+A. 0000H
+B. 0600H
+C. 0800H
+D. 0800H
+```
+
+14. 「2011真题」某计算机存储器按字节编址，主存地址空间大小为 64MB，现用 4M * 8 位的 RAM 芯片组成 32MB 的主存储器，则存储器地址寄存器 MAR 的位数至少是（ ）
+
+```
+A. 22 位
+B. 23
+C. 25 位
+D. 26
+```
+
+16. 「2018真题」假定 DRAM芯片中存储阵列的行数为 r、列数为 c，对于一个 2K * 1 位的 DRAM 芯片，为保证其地址引脚最少，并尽量减少刷新开销，则 r、c 的取值分别是（ ）
+
+```
+A. 2048,1
+B. 64,32
+C. 32,64
+D. 1,2048
 ```
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
