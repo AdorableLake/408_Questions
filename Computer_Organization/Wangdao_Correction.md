@@ -4,7 +4,7 @@
 
 [1.3.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#133-performance--性能指标)
 
-## [Chapter 2 Numrical system & Calculation | 数制与运算](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-2-data)
+## [Chapter 2 Data | 数据](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-2-data)
 [2.1.5 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#215-code--numeral-system-编码与数制)
 
 [2.2.7 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#227-calculation--运算方法)
