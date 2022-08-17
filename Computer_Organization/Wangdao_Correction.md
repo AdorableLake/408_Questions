@@ -1,17 +1,17 @@
 # Catalog | 目录
-## [Chapter 1](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-1-conception)
+## [Chapter 1 Conception | 概论](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-1-conception)
 [1.2.6](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#126-level-structure--层次结构简述)
 
 [1.3.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#133-performance--性能指标)
 
-## [Chapter 2](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-2-data)
+## [Chapter 2 Numrical system & Calculation | 数制与运算](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-2-data)
 [2.1.5 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#215-code--numeral-system-编码与数制)
 
 [2.2.7 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#227-calculation--运算方法)
 
 [2.3.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#233-calculation-of-float--浮点数的计算)
 
-## [Chapter 3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-3-storage)
+## [Chapter 3 Storage | 存储器](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-3-storage)
 [3.1.4 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#314-storage-level--存储结构)
 
 [3.2.5 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#325-main-storage--主存储器)
@@ -24,7 +24,7 @@
 
 [3.6.6](url)
 
-## [Chapter 4](url)
+## [Chapter 4 Order | 指令](url)
 [4.1.5](url)
 
 [4.2.3](url)
