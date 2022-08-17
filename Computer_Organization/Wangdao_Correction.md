@@ -18,6 +18,20 @@
 
 [3.3.5 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#335-link-between-main-storage-and-cpu--主存储器和-cpu-的连接)
 
+[3.4.3](url)
+
+[3.5.6](url)
+
+[3.6.6](url)
+
+## [Chapter 4](url)
+[4.1.5](url)
+
+[4.2.3](url)
+
+[4.3.5](url)
+
+
 # Chapter 1: Conception
 ## 1.2.6 Level Structure | 层次结构简述
 02.  冯·诺依曼机的基本工作方式是（ ）
