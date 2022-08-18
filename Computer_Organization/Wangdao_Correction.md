@@ -14,7 +14,7 @@
 ## [Chapter 3 Storage | 存储器](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-3-storage)
 [3.1.4 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#314-storage-level--存储结构)
 
-[3.2.5 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#325-main-storage--主存储器)
+[3.2.5 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#325-main-storage--主存储器)
 
 [3.3.5 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#335-link-between-main-storage-and-cpu--主存储器和-cpu-的连接)
 
@@ -1027,7 +1027,7 @@ N = 2^27 * 8 / 64 = 2^24 = 16M
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
 
 ## 3.2.5 Main Storage | 主存储器
-09. 某一 DRAM 芯片，采用地址复用技术，其容量为 1024*8 位，除电源和接地端外，该芯片的引脚数最少是（ ）（读写控制线为两根）
+✅09. 某一 DRAM 芯片，采用地址复用技术，其容量为 1024*8 位，除电源和接地端外，该芯片的引脚数最少是（ ）（读写控制线为两根）
 
 ```
 A. 16
@@ -1036,7 +1036,13 @@ C. 19
 D. 21
 ```
 
-16. 一个四体并行低位交叉存储器，每个模块的容量是 64K*32 位，存取周期为 200ns，总线周期为 50ns，在下属说法中，（ ）是正确的
+```
+1024*8 = 2^10 * 2^3 => N(data) = 10/2 = 5（地址复用技术）; N(address) = 8; N(W/R) = 2; N(S) = 2（行通选+列通选，其中行通选代替片选线）;
+
+N = 5+8+2+2 = 17
+```
+
+✅16. 一个四体并行低位交叉存储器，每个模块的容量是 64K*32 位，存取周期为 200ns，总线周期为 50ns，在下属说法中，（ ）是正确的
 
 ```
 A. 在 200ns 内，存储器能向 CPU 提供 256 位二进制信息
@@ -1045,7 +1051,13 @@ C. 在 50ns 内，每个模块能向 CPU 提供 32 位二进制信息
 D. 以上都不对
 ```
 
-17. 某机器采用四体低位交叉存储器，现分别执行下述操作：
+```
+低位交叉存储器采用流水线技术，因此该存储器可在一个读写周期内访问 4 个存储模块，因此 32 * 4 = 128 bit
+
+*注：若从第一个字出发，到第四个字读写完成，应为 350ns（200+200-50）
+```
+
+✅17. 某机器采用四体低位交叉存储器，现分别执行下述操作：
     1. 读取 6 个连续地址单元存放的存储字，重复 80 次；
     2. 读取 8 个连续地址单元存放的存储字，重复 60 次。
 
@@ -1058,7 +1070,15 @@ C. 4:3
 D. 3:4
 ``` 
 
-18. 下列说法中，正确的是（ ）
+```
+第一种情况：前 79 轮每一轮均需花费 2T 进入下一轮；直到最后一轮，需要花费 1T + 1.25T = 2.25T；总计 79*2T + 2.25T = 160.25T
+
+第二种情况：前 59 轮均需花费 2T 进入下一轮；直到最后一轮，需要等到第 8 个字存取完毕，需：2T + 0.75T = 2.75T；总计：59*2T + 2.75T = 120.75T
+
+160.25/120.75 ～ 4/3 => C
+```
+
+✅18. 下列说法中，正确的是（ ）
 
 ```
 I.   高位多体交叉存储器能很好地满足程序的局部性原理
@@ -1070,6 +1090,13 @@ A. I,III
 B. II,III
 C. II,III,IV
 D. III,IV
+```
+
+```
+I.   => 高位多体交叉存储器在单个存储器中的字是连续存储，因此不满足程序的局部性原理
+II.  => 高位多体交叉存储器可以在一个周期内访问连续的彼此地址相差一个存储体容量的 4 个字
+III. => 双端口存储器可以同时访问同一区间、同一单元
+IV.  => 访问时不会发生冲突
 ```
 
 ✅22. 「2014真题」某容量为 256MB 的存储器由若干 4M * 8bit 的 DRAM 芯片构成，该 DRAM 芯片的地址引脚和数据引脚总数是（ ）
