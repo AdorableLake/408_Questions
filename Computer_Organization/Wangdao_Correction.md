@@ -18,11 +18,11 @@
 
 [3.3.5 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#335-link-between-main-storage-and-cpu--主存储器和-cpu-的连接)
 
-[3.4.3](url)
+[3.4.3 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#343-external-storage--外部存储)
 
-[3.5.6](url)
+[3.5.6 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#356-cache--高速缓冲器)
 
-[3.6.6](url)
+[3.6.6 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#366-virtual-storage--虚拟存储器)
 
 ## [Chapter 4 Order | 指令](url)
 [4.1.5](url)
