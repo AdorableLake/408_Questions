@@ -18,7 +18,7 @@
 
 [3.3.5 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#335-link-between-main-storage-and-cpu--主存储器和-cpu-的连接)
 
-[3.4.3 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#343-external-storage--外部存储)
+[3.4.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#343-external-storage--外部存储)
 
 [3.5.6 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#356-cache--高速缓冲器)
 
@@ -1249,7 +1249,7 @@ D. 1,2048
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
 
 ## 3.4.3 External Storage | 外部存储
-01. 一个磁盘的转速为 7200 r/min，每个磁道有 160 个扇区，每个扇区有 512 字节，则在理想情况下，其数据传输率为（ ）
+✅01. 一个磁盘的转速为 7200 r/min，每个磁道有 160 个扇区，每个扇区有 512 字节，则在理想情况下，其数据传输率为（ ）
 
 ```
 A. 7200 * 160KB/s
@@ -1258,7 +1258,11 @@ C. 9600KB/s
 D. 19200KB/s
 ```
 
-04. 「2013真题」某磁盘的转速为 10000r/min，平均寻道时间为 6ms，磁盘传输速率是 20MB/s，磁盘控制器延迟为 0.2ms，读取一个 4KB 的扇区所需的平均时间约为（ ）
+```
+V = rN = (7200/60)r/s * 160r * 0.5KB = 9600KB/s
+```
+
+✅04. 「2013真题」某磁盘的转速为 10000r/min，平均寻道时间为 6ms，磁盘传输速率是 20MB/s，磁盘控制器延迟为 0.2ms，读取一个 4KB 的扇区所需的平均时间约为（ ）
 
 ```
 A. 9ms
@@ -1267,13 +1271,27 @@ C. 12ms
 D. 12.4ms
 ```
 
-06. 「2015真题」若磁盘转速 7200r/min，平均寻道时间为 8ms，每个磁道包含 1000 个扇区，则访问一个扇区的平均存取时间大约是（ ）
+```
+10000r/min => 60s/10000r => 60000ms/10000r => 6ms/r => T(search)= 6ms/2 = 3ms;
+
+T(read) = 4KB/(20MB/s) = 4KB/(20*10^3KB/1000ms) = 0.2ms;
+
+T = T(read) + T(Search) + T(search) + T(ping) = 0.2ms + 6ms + 3ms + 0.2ms = 9.4ms
+```
+
+✅06. 「2015真题」若磁盘转速 7200r/min，平均寻道时间为 8ms，每个磁道包含 1000 个扇区，则访问一个扇区的平均存取时间大约是（ ）
 
 ```
 A. 8.1ms
 B. 12.2ms
 C. 16.3ms
 D. 20.5ms
+```
+
+```
+7200r/min => 120r/s => 60*1000/7200 ms/r => 4.17ms/half-r 
+(60*1000/7200)/1000 = 0.01ms/block
+T=4.17+0.01+8=12.18~12.2ms
 ```
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
