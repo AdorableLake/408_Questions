@@ -1,6 +1,6 @@
 # Catalog | 目录
 ## [Chapter 1 Conception | 概论](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-1-conception)
-[1.2.6](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#126-level-structure--层次结构简述)
+[1.2.6 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#126-level-structure--层次结构简述)
 
 [1.3.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#133-performance--性能指标)
 
