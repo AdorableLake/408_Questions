@@ -24,12 +24,12 @@
 
 [3.6.6 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#366-virtual-storage--虚拟存储器)
 
-## [Chapter 4 Order | 指令](url)
-[4.1.5](url)
+## [Chapter 4 Order | 指令](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-4-order)
+[4.1.5](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#415-formate-of-orders--指令的格式)
 
-[4.2.3](url)
+[4.2.3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#423-method-of-find-address--寻址方式)
 
-[4.3.5](url)
+[4.3.5](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#435-assembly-order--机器级指令入门)
 
 
 # Chapter 1: Conception
