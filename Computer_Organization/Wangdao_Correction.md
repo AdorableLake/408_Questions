@@ -22,10 +22,10 @@
 
 [3.5.6 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#356-cache--高速缓冲器)
 
-[3.6.6 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#366-virtual-storage--虚拟存储器)
+[3.6.6 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#366-virtual-storage--虚拟存储器)
 
 ## [Chapter 4 Order | 指令](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-4-order)
-[4.1.5 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#415-formate-of-orders--指令的格式)
+[4.1.5 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#415-formate-of-orders--指令的格式)
 
 [4.2.3 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#423-method-of-find-address--寻址方式)
 
