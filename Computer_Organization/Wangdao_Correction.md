@@ -31,6 +31,12 @@
 
 [4.3.5 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#435-assembly-order--机器级指令入门)
 
+## [Chapter 5 CPU | 中央处理器](url)
+[5.1.3](url)
+
+[5.2.4](url)
+
+[5.3.3](url)
 
 # Chapter 1: Conception
 ## 1.2.6 Level Structure | 层次结构简述
