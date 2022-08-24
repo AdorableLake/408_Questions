@@ -29,7 +29,7 @@
 
 [4.2.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#423-method-of-find-address--寻址方式)
 
-[4.3.5 解析未看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#435-assembly-order--机器级指令入门)
+[4.3.5 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#435-assembly-order--机器级指令入门)
 
 ## [Chapter 5 CPU | 中央处理器](url)
 [5.1.3 解析未看完](url)
@@ -2154,7 +2154,7 @@ D. -512~511
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
 
 ## 4.3.5 Assembly Order | 机器级指令入门
-01. 假设 R[ax] = FFE8H, R[bx] = 7FE6H，执行指令 "addw %bx, %ax" 后，寄存器的内容和各标志的变化为（ ）
+✅01. 假设 R[ax] = FFE8H, R[bx] = 7FE6H，执行指令 "addw %bx, %ax" 后，寄存器的内容和各标志的变化为（ ）
 
 ```
 A. R[ax] = 7FCEH, OF = 1, SF = 0, CF = 0, ZF = 0
@@ -2163,7 +2163,17 @@ C. R[ax] = 7FCEF, OF = 0, SF = 0, CF = 1, ZF = 0
 D. R[bx] = 7FCEH, OF = 0, SF = 0, CF = 1, ZF = 0
 ```
 
-02. 假设 R[ax] = 7FE6H, R[bx] = FFE8H，执行指令 "sub bx, ax" 后，寄存器的内容和各标志的变化为（ ）
+```
+该指令格式为 AT&T 格式，add 指令的目的寄存器为 ax。add 指令的补码加法过程为：
+1111 1111 1110 1000 + 0111 1111 1110 0110 = (1) 0111 1111 1100 1110 = 7FCEH
+
+OF = 0 => 符号不同，因此不会溢出
+CF = 1 => 有进位
+SF = 0 => 结果符号位为 0
+ZF = 0 => 非 0
+```
+
+❓02. 假设 R[ax] = 7FE6H, R[bx] = FFE8H，执行指令 "sub bx, ax" 后，寄存器的内容和各标志的变化为（ ）
 
 ```
 A. R[ax] = 8002H, OF = 0, SF = 1, CF = 0, ZF = 0
@@ -2172,7 +2182,19 @@ C. R[ax] = 8002H, OF = 1, SF = 1, CF = 0, ZF = 0
 D. R[bx] = 8002H, OF = 1, SF = 1, CF = 0, ZF = 0
 ```
 
-03. 假设 P 为调用过程，Q 为被调用过程，程序在 32 位 x86 处理器上执行，以下是 C 语言过程调用所涉及的操作：
+```
+该指令格式为 Intel 格式，sub 指令的寄存器为 bx，sub 指令的补码减法过程为：
+                       ___________________
+1111 1111 1110 1000 + (0111 1111 1110 0110) = 
+1111 1111 1110 1000 + 1000 0000 0001 1011 = (1) 1000 0000 0000 0011 = 8003H
+
+OF = 
+CF = 
+SF = 1
+ZF = 0
+```
+
+✅03. 假设 P 为调用过程，Q 为被调用过程，程序在 32 位 x86 处理器上执行，以下是 C 语言过程调用所涉及的操作：
     1. 过程 Q 保存 P 的现场，并为非静态局部变量分配空间
     2. 过程 P 将实参放到 Q 能访问到的地方
     3. 过程 P 将返回地址存放到特定处，并转跳到 Q 执行
@@ -2187,6 +2209,18 @@ A. 2->3->4->1->5->6
 B. 2->3->1->4->6->5
 C. 2->3->1->6->5->4
 D. 2->3->1->5->6->4
+```
+
+```
+上述的调用过程如下：
+1. P 将实参放到 Q 能访问到的地方
+2. P 将返回地址存到特定地方，然后将控制转移到 Q
+3. Q 保存 P 的现场（即通用寄存器的内容），并为自己的非晶态局部变量分配空间
+4. 执行 Q
+5. Q 恢复 P 的现场，将返回结果放到 P 能访问到的地方，并释放局部变量所占空间
+6. Q 取出返回地址，将控制转移到 P
+
+因此为 2->3->1->6->5->4
 ```
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
