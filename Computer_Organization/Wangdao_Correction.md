@@ -31,12 +31,12 @@
 
 [4.3.5 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#435-assembly-order--机器级指令入门)
 
-## [Chapter 5 CPU | 中央处理器](url)
-[5.1.3 解析已看完](url)
+## [Chapter 5 CPU | 中央处理器](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-5-cpu)
+[5.1.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#513-conception-of-cpu--中央处理器概览)
 
-[5.2.4 解析已看完](url)
+[5.2.4 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#524-execution-of-order--指令的执行过程)
 
-[5.3.3 解析已看完](url)
+[5.3.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#533-数据通路)
 
 # Chapter 1: Conception
 ## 1.2.6 Level Structure | 层次结构简述
