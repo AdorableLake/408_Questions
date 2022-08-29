@@ -2589,3 +2589,167 @@ ALU、通用寄存器、状态寄存器、Cache、MMU、浮点运算逻辑、异
 ```
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
+
+## 5.4.4 Controler: Features & Principle | 控制器的功能和工作原理
+03. 在微程序控制器中，形成微程序入口地址的是（ ）
+
+```
+A. 机器指令的地址码字段
+B. 微指令的微地址码字段
+C. 机器指令的操作码字段
+D. 微指令的微操作码字段
+```
+
+08. 硬布线控制器与微程序控制器相比，（ ）
+
+```
+A. 硬布线控制器的时序系统比较简单
+B. 微程序控制器的时序系统比较简单
+C. 两者的时序系统复杂程度相同
+D. 可能是硬布线控制器的时序系统比较简单，也可能是微程序控制器的时序系统比较简单
+```
+
+13. 某带中断的计算机指令系统共有 101 种操作，采用微程序控制方式时，控制存储器中相应最少有（ ）个微程序
+
+```
+A. 101
+B. 102
+C. 103
+D. 104
+```
+
+17. 通常情况下，一个微程序的周期对应一个（ ）
+
+```
+A. 指令周期
+B. 主频周期
+C. 机器周期
+D. 工作周期
+```
+
+18. 下列部件中属于控制部件的是（ ）
+
+```
+I.   指令寄存器
+II.  操作控制器
+III. 程序计数器
+IV.  状态条件寄存器
+
+A. I,III,IV
+B. I,II,III
+C. I,II,IV
+D. I,II,III,IV
+```
+
+19. 下列部件中属于执行部件的是（ ）
+
+```
+I.   控制器
+II.  存储器
+III. 运算器
+IV.  外围设备
+
+A. I,III,IV
+B. II,III,IV
+C. II,IV
+D. I,II,III,IV
+```
+
+21. 「2009真题」某计算机的控制器采用微程序控制方式，微指令中的操作控制字段采用字段直接编码法，共有 33 个微命令，构成 5 个互斥类，分别包含 7、3、12、5 和 6 个微命令，则操作控制字段至少有（ ）
+
+```
+A. 5 位
+B. 6 位
+C. 15 位
+D. 33 位
+```
+
+22. 「2014真题」某计算机采用微程序控制器，共有 32 条指令，公共的取指令微程序包含 2 条微指令，各微指令对应的微程序平均由 4 条微指令组成，采用断定法（下地址字段法）确定下条微指令地址，则为指令中下地址字段的位数至少是（ ）
+
+```
+A. 5
+B. 6
+C. 8
+D. 9
+```
+
+23. 「2017真题」下列关于主存储器（MM）和控制存储器（CS）的叙述，错误的是（ ）
+
+```
+A. MM 在 CPU 外，CS 在 CPU 内
+B. MM 按地址访问， CS 按内容访问
+C. MM 存储指令和数据，CS 存储微指令
+D. MM 用 RAM 和 ROM 实现，CS 用 ROM 实现
+```
+
+25. 「2019真题」某指令功能为 `R[r2]<-R[r1]+M[R[r0]]`，其两个源操作数分别采用寄存器、寄存器间接寻址方式。对于下列给定部件，该指令在取数及执行过程中需要用到的是（ ）
+
+```
+I.   通用寄存器组（GPRs）
+II.  算术逻辑单元（ALU）
+III. 存储器（Memory）
+IV.  指令译码器（ID）
+
+A. I,II
+B. I,II,III
+C. II,III,IV
+D. I,III,IV
+```
+
+26. 「2021真题」下列寄存器中，汇编语言程序员可见的是（ ）
+
+```
+I.   指令寄存器
+II.  微指令寄存器
+III. 基址寄存器
+IV.  标志/状态寄存器
+
+A. I,II
+B. I,IV
+C. II,IV
+D. III,IV
+```
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
+
+## 5.5.4  Abnormality & Discontinue | 异常和中断
+03. 主存故障引起的中断是（ ）
+
+```
+A. 故障异常
+B. 程序性中断
+C. 硬件中断
+D. 外中断
+```
+
+05. 以下给出的事件中，无需异常处理程序进行处理的是（ ）
+
+```
+A. 缺页故障
+B. Cache 缺失
+C. 地址越界
+D. 除数为 0
+```
+
+08. 「2020真题」下列关于 “自陷”（Trap，也称陷阱）的叙述中，错误的是（ ）
+
+```
+A. 自陷是通过陷阱指令预先设定的一类外部中断事件
+B. 自陷可用于实现程序调试时的断点设置和单步跟踪
+C. 自陷发生后 CPU 将转去执行操作系统内核相应程序
+D. 自陷处理完成后返回到陷阱指令的下一条指令执行
+```
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
