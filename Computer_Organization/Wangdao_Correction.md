@@ -1,52 +1,52 @@
 # Catalog | 目录
 ## [Chapter 1 Conception | 概论](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-1-conception)
-[1.2.6 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#126-level-structure--层次结构简述)
+[1.2.6](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#126-level-structure--层次结构简述)
 
-[1.3.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#133-performance--性能指标)
+[1.3.3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#133-performance--性能指标)
 
 ## [Chapter 2 Data | 数据](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-2-data)
-[2.1.5 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#215-code--numeral-system-编码与数制)
+[2.1.5](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#215-code--numeral-system-编码与数制)
 
-[2.2.7 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#227-calculation--运算方法)
+[2.2.7](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#227-calculation--运算方法)
 
-[2.3.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#233-calculation-of-float--浮点数的计算)
+[2.3.3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#233-calculation-of-float--浮点数的计算)
 
 ## [Chapter 3 Storage | 存储器](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-3-storage)
-[3.1.4 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#314-storage-level--存储结构)
+[3.1.4](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#314-storage-level--存储结构)
 
-[3.2.5 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#325-main-storage--主存储器)
+[3.2.5](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#325-main-storage--主存储器)
 
-[3.3.5 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#335-link-between-main-storage-and-cpu--主存储器和-cpu-的连接)
+[3.3.5](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#335-link-between-main-storage-and-cpu--主存储器和-cpu-的连接)
 
-[3.4.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#343-external-storage--外部存储)
+[3.4.3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#343-external-storage--外部存储)
 
-[3.5.6 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#356-cache--高速缓冲器)
+[3.5.6](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#356-cache--高速缓冲器)
 
-[3.6.6 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#366-virtual-storage--虚拟存储器)
+[3.6.6](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#366-virtual-storage--虚拟存储器)
 
 ## [Chapter 4 Order | 指令](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-4-order)
-[4.1.5 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#415-formate-of-orders--指令的格式)
+[4.1.5](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#415-formate-of-orders--指令的格式)
 
-[4.2.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#423-method-of-find-address--寻址方式)
+[4.2.3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#423-method-of-find-address--寻址方式)
 
-[4.3.5 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#435-assembly-order--机器级指令入门)
+[4.3.5](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#435-assembly-order--机器级指令入门)
 
 ## [Chapter 5 CPU | 中央处理器](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-5-cpu)
-[5.1.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#513-conception-of-cpu--中央处理器概览)
+[5.1.3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#513-conception-of-cpu--中央处理器概览)
 
-[5.2.4 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#524-execution-of-order--指令的执行过程)
+[5.2.4](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#524-execution-of-order--指令的执行过程)
 
-[5.3.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#533-数据通路)
+[5.3.3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#533-数据通路)
 
-[5.4.4](url)
+[5.4.4](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#544-controler-features--principle--控制器的功能和工作原理)
 
-[5.5.4](url)
+[5.5.4](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#554--abnormality--discontinue--异常和中断)
 
-[5.6.6](url)
+[5.6.6](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#566-instruction-pipeline--指令流水线)
 
-[5.7.5](url)
+[5.7.5](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#575-multi-cpu--多处理器)
 
-## [Chapter 6 Bus | 总线](url)
+## [Chapter 6 Bus | 总线](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-6-bus)
 [6.1.6](url)
 
 [6.2.4](url)
@@ -2979,7 +2979,7 @@ D. 突发（Burst）传送总线事务可以在总线上连续传送多个数据
 
 # Chapter 7: I/O
 ## 7.1.4 I/O Conception | I/O 简述
-01. 在微型机系统中，I/O 设备通过（ ）与主板的系统总线相连接
+✅01. 在微型机系统中，I/O 设备通过（ ）与主板的系统总线相连接
 
 ```
 A. DMA 控制器
@@ -2988,13 +2988,21 @@ C. 中断控制器
 D. I/O 端口
 ```
 
-03. 以下关于通道程序的叙述中，正确的是（ ）
+```
+I/O 设备总是通过设备控制器来与系统总线相连接的
+```
+
+✅03. 以下关于通道程序的叙述中，正确的是（ ）
 
 ```
 A. 通道程序存放在主存中
 B. 通道程序存放在通道中
 C. 通道程序是由 CPU 执行的
 D. 通道程序可以在任何环境下执行 I/O 操作
+```
+
+```
+通道程序存放在主存而不是通道中，由通道从主存中取出并由通道执行，且只能在具有通道的 I/O 系统中执行。
 ```
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#catalog--目录)
