@@ -52,7 +52,6 @@
 [6.2.4](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#624-bus-transaction--总线事务)
 
 ## [Chapter 7 I/O | 输入/输出](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-7-io)
-
 [7.1.4](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#714-io-conception--io-简述)
 
 [7.2.5](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#725-ports-of-io--io-接口)
