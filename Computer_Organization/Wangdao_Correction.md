@@ -38,6 +38,29 @@
 
 [5.3.3 解析已看完](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#533-数据通路)
 
+[5.4.4](url)
+
+[5.5.4](url)
+
+[5.6.6](url)
+
+[5.7.5](url)
+
+## [Chapter 6 Bus | 总线](url)
+[6.1.6](url)
+
+[6.2.4](url)
+
+## [Chapter 7 I/O](url)
+
+[7.1.4](url)
+
+[7.2.5](url)
+
+[7.3.4](url)
+
+-----------
+
 # Chapter 1: Conception
 ## 1.2.6 Level Structure | 层次结构简述
 02.  冯·诺依曼机的基本工作方式是（ ）
