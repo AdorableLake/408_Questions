@@ -47,15 +47,15 @@
 [5.7.5](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#575-multi-cpu--多处理器)
 
 ## [Chapter 6 Bus | 总线](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-6-bus)
-[6.1.6](url)
+[6.1.6](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#616-conception-of-bus--总线概念)
 
-[6.2.4](url)
+[6.2.4](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#624-bus-transaction--总线事务)
 
-## [Chapter 7 I/O](url)
+## [Chapter 7 I/O](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#chapter-7-io)
 
-[7.1.4](url)
+[7.1.4](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#714-io-conception--io-简述)
 
-[7.2.5](url)
+[7.2.5](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#725-ports-of-io--io-接口)
 
 [7.3.4](url)
 
