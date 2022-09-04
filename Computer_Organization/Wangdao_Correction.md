@@ -56,7 +56,7 @@
 
 [7.2.5](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#725-ports-of-io--io-接口)
 
-[7.3.4](url)
+[7.3.4](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Organization/Wangdao_Correction.md#734-io-control-methods--io-方式)
 
 -----------
 
