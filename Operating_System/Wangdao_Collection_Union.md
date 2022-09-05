@@ -1,9 +1,9 @@
 # Catalog | 目录
 ## [Chapter 1](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#chapter-1-conception)
 ### [1.1.4](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#114-conception-of-operating-system--操作系统简述)
-### [1.2.7](url)
-### [1.3.4](url)
-### [1.6.2](url)
+### [1.2.7](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#127-kinds-of-os--操作系统的分类)
+### [1.3.4](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#134-operation-enviroment--操作系统的运行环境)
+### [1.6.2](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#162-structurebootvm--结构引导虚拟机)
 
 # Chapter 1: Conception
 ## 1.1.4 Conception of Operating System | 操作系统简述
