@@ -7,7 +7,7 @@
 
 ## [Chapter 2](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#chapter-2-process--thread)
 ### [2.1.8](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#218-process--thread--进程和线程)
-### [2.2.7](url)
+### [2.2.7](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#227-dispatch-of-process-and-thread--进程与线程的切换)
 # Chapter 1: Conception
 ## 1.1.4 Conception of Operating System | 操作系统简述
 ✅03. 下列选项中，（ ）不是操作系统关心的问题。
