@@ -565,6 +565,7 @@ III.   => 实现真正并行的是多核处理机，多台虚拟机同时运行�
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#162)
 
+# Chapter 2: Process & Thread
 ## 2.1.8 Process & Thread | 进程和线程
 ✅02. 下列关于线程的叙述中，正确的是（ ）
 
