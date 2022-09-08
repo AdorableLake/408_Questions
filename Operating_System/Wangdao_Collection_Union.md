@@ -5,8 +5,8 @@
 ### [1.3.4](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#134-operation-enviroment--操作系统的运行环境)
 ### [1.6.2](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#162-structurebootvm--结构引导虚拟机)
 
-## [Chapter 2](url)
-### [2.1.8](url)
+## [Chapter 2](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#chapter-2-process--thread)
+### [2.1.8](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#218-process--thread--进程和线程)
 ### [2.2.7](url)
 # Chapter 1: Conception
 ## 1.1.4 Conception of Operating System | 操作系统简述
@@ -977,4 +977,145 @@ D. 父进程与子进程不能同时使用同一临界资源
 PCB 是进程存在的唯一标志，因此即使是父子进程，也拥有各自独立的 PCB；
 
 临界区资源一次只能为一个进程所用；
+```
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#218)
+
+## 2.2.7 Dispatch of Process and Thread | 进程与线程的切换
+03. （ ）有利于 CPU 繁忙型的作业，而不利于 I/O 繁忙型的作业。
+
+```
+A. 时间片轮转调度算法
+B. 先来先服务调度算法
+C. 短作业（进程）优先算法
+D. 优先权调度算法
+```
+
+05. 进程（线程）调度的时机有（ ）
+
+```
+I.   运行的进程（线程）运行完毕
+II.  运行的进程（线程）所需资源未准备好
+III. 运行的进程（线程）的时间片用完
+IV.  运行的进程（线程）自我阻塞
+V.   运行的进程（线程）出现错误
+
+A. II,III,IV,V
+B. I,III
+C. II,IV,V
+D. 全部
+```
+
+07. 
+若每个作业只能建立一个进程，为了照顾短作业用户，应采用（ ）；
+为了照顾紧急作业用户，应采用（ ）；
+为了能实现人机交互，应采用（ ）；
+而能使短作业、长作业和交互作业用户都满意，应采用（ ）；
+
+```
+A. FCFS 调度算法 
+B. 短作业优先调度算法
+C. 时间片轮转调度算法
+D. 多级反馈队列调度算法
+E. 剥夺式优先级调度算法
+```
+
+14. 下列调度算法中，（ ）调度算法是绝对可抢占的
+
+```
+A. 先来先服务
+B. 时间片轮转
+C. 优先级
+D. 短进程优先
+```
+
+21. 假设系统中所有进程同时到达，则是进程平均周转时间最短的是（ ）调度算法
+
+```
+A. 先来先服务
+B. 短进程优先
+C. 时间片轮转
+D. 优先级
+```
+
+22. 下列说法中，正确的是（ ）
+
+```
+I.   分时操作系统的时间片固定，因此用户数越多，响应时间越长
+II.  UNIX 是一个强大的多用户、多任务操作系统，支持多种处理器架构，按照操作系统分类，属于分时操作系统
+III. 中断向量地址是中断服务例行程序的入口地址
+IV.  中断发生时，由硬件保护并更新程序计数器（PC），而不是由软件完成，主要是为了提高处理速度
+
+A. I,II
+B. II,III
+C. III,IV
+D. IV
+```
+
+25. 「2012真题」一个多道批处理系统中仅有 P1 和 P2 两个作业，P2 比 P1 晚 5ms 到达，它的计算和 I/O 操作顺序如下：
+
+P1：计算 60ms，I/O 80ms，计算 20ms
+P2：计算 120ms，I/O 40ms。计算 40ms
+
+若不考虑调度和切换时间，则完成两个作业需要的时间最少是（ ）
+
+```
+A. 240ms
+B. 260ms
+C. 340ms
+D. 360ms
+```
+
+26. 「2012真题」若某单处理器多进程系统中有多个就绪态进程，则下列关于处理机调度的叙述中，错误的是（ ）
+
+```
+A. 在进程结束时能进程处理机调度
+B. 创建新进程后能进行处理机调度
+C. 在进程处于临界区时不能进行处理机调度
+D. 在系统调用完成并返回用户态时能进行处理机调度
+```
+
+34. 「2020真题」下列与调度有关的因素中，在设计多级反馈队列调度算法是需要考虑的是（ ）
+
+```
+I.   就绪队列的数量
+II.  就绪队列的优先级
+III. 各就绪队列的调度算法
+IV.  进程在就绪队列间的迁移条件
+
+A. I,II
+B. III,IV
+C. II,III,IV
+D. I,II,III,IV
+```
+
+35. 「2021真题」在下列内核的数据结构或程序中，分时系统实现时间片轮转调度需要使用的是（ ）
+
+```
+I.   进程控制块
+II.  时钟中断处理程序
+III. 进程就绪队列
+IV.  进程阻塞队列
+
+A. II,III
+B. I,IV
+C. I,II,III
+D. I,II,IV
+```
+
+36. 「2021真题」下列事件中，可能引起进程调度程序执行的是（ ）
+
+```
+I.   中断处理结束
+II.  进程阻塞
+III. 进程执行结束
+IV.  进程的时间片用完
+
+A. I,III
+B. II,IV
+C. III,IV
+D. I,II,III,IV
+```
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#227)
 ```
