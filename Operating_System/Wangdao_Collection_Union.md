@@ -11,9 +11,9 @@
 ### [2.3.8](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#238-synchronization--mutual-exclusion--同步与互斥)
 ### [2.4.6](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#246-deadlock--死锁)
 
-## [Chapter 3](url)
-### [3.1.8](url)
-### [3.2.10](url)
+## [Chapter 3](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#chapter-3-menmory-management)
+### [3.1.8](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#318-memory-management--内存管理)
+### [3.2.10](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#3210-virtual-memory--虚拟内存)
 
 # Chapter 1: Conception
 ## 1.1.4 Conception of Operating System | 操作系统简述
