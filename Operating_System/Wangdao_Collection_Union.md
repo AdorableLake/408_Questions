@@ -15,8 +15,16 @@
 ### [3.1.8](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#318-memory-management--内存管理)
 ### [3.2.10](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#3210-virtual-memory--虚拟内存)
 
-## [Chapter 4](url)
-### [4.1.8](url)
+## [Chapter 4](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#chapter-4-file-management)
+### [4.1.8](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#418-file-management--文件管理)
+### [4.2.7](url)
+### [4.3.7](url)
+
+## [Chapter 5](url)
+### [5.1.5](url)
+### [5.2.7](url)
+### [5.3.6](url)
+
 
 # Chapter 1: Conception
 ## 1.1.4 Conception of Operating System | 操作系统简述
