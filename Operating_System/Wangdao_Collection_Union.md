@@ -17,8 +17,8 @@
 
 ## [Chapter 4](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#chapter-4-file-management)
 ### [4.1.8](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#418-file-management--文件管理)
-### [4.2.7](url)
-### [4.3.7](url)
+### [4.2.7](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#427-file-directory--文件目录)
+### [4.3.7](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#437-file-system--文件系统)
 
 ## [Chapter 5](url)
 ### [5.1.5](url)
