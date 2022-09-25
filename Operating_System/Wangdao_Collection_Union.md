@@ -20,10 +20,10 @@
 ### [4.2.7](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#427-file-directory--文件目录)
 ### [4.3.7](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#437-file-system--文件系统)
 
-## [Chapter 5](url)
-### [5.1.5](url)
-### [5.2.7](url)
-### [5.3.6](url)
+## [Chapter 5](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#chapter-5-io-management)
+### [5.1.5](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#516-io-management--io-管理)
+### [5.2.7](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#527-device-independent-software--设备独立性软件)
+### [5.3.6](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#536-disk-and-ssd--磁盘和固态硬盘)
 
 
 # Chapter 1: Conception
