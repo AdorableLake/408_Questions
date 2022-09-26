@@ -11,7 +11,7 @@
 ### [2.3.8](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#238-synchronization--mutual-exclusion--同步与互斥)
 ### [2.4.6](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#246-deadlock--死锁)
 
-## [Chapter 3](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#chapter-3-menmory-management)
+## [Chapter 3](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#chapter-3-memory-management)
 ### [3.1.8](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#318-memory-management--内存管理)
 ### [3.2.10](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#3210-virtual-memory--虚拟内存)
 
@@ -1947,7 +1947,7 @@ n*1+1=n+1
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Operating_System/Wangdao_Collection_Union.md#246)
 
-# Chapter 3: Menmory Management
+# Chapter 3: Memory Management
 ## 3.1.8 Memory Mangement | 内存管理
 ❓01. 下面关于存储管理的叙述中，正确的是（ ）
 
