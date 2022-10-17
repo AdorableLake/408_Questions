@@ -932,7 +932,7 @@ D. 1111 0011 0111 00
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wanda_Collection_Union.md#333)
 
-## 3.4.5
+## 3.4.5 Traffic Control and Slide Window | 流量控制和滑动窗口机制
 ✅03. 一个信道的数据传输速率为 4kb/s，单向传播时延为 30ms，如果使停止-等待协议的信道最大利用率达到 80%，那么要求的数据帧长度至少为（ ）
 
 ```
