@@ -2203,6 +2203,42 @@ IP 分组首部长度为 20B。
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wanda_Collection_Union.md#435)
 
+## 4.4.3 IPv6
+✅02. 与 IPv4 相比，IPv6（ ）
+
+```
+A. 采用 32 位 IP 地址
+B. 增加了头部字段数目
+C. 不提供 QoS 保障
+D. 没有提供校验和字段
+```
+
+```
+IPv6 采用 128 位（16B）地址；
+
+IPv6 减少了头部字段数目，仅包含 8 个字段；
+
+IPv6 支持 QoS，以满足实时、多媒体通信的需要；
+
+由于当前网络传输介质的可靠性较高，出现比特错误的可能性很低，且数据链路层和传输层有自己的校验，为了效率，IPv6 没有校验和字段
+```
+
+✅04. 下列关于 IPv6 的描述中，错误的是（ ）
+
+```
+A. IPv6 的首部长度是不可变的
+B. IPv6 不允许分片
+C. IPv6 采用了 16B 的地址，在可预见的将来不会用完
+D. IPv6 使用了首部校验和来保证传输的正确性
+```
+
+```
+IPv6 的首部长度是固定的，因此不需要首部长度字段；
+
+IPv6 取消了校验和字段，这样加快了路由器处理数据报的速度；
+
+数据链路层会丢弃检测出差错的帧，运输层也有相应的差错处理机制，因此网络层的差错检测可以精简掉
+```
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wanda_Collection_Union.md#443)
 
