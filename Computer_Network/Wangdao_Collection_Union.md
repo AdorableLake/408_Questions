@@ -2875,7 +2875,32 @@ D. 801～1100
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#537)
 
-[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#523)
+# Chapter 6: Application Layer
+## 6.1.3 Network Application Models | 网络应用模型
+✅04. 下面关于客户/服务器模型的描述，（ ）存在错误
+
+```
+I.   客户端必须提前知道服务器的地址，而服务器则不需要提前知道客户端的地址
+II.  客户端主要实现如何显示信息与收集用户的输入，而服务器主要实现数据的处理
+III. 浏览器显示的内容来自服务器
+IV.  客户端是请求段，即使连接建立后，服务器也不能主动发送数据
+```
+
+```
+A. I,IV
+B. III,IV
+C. IV
+D. III
+```
+
+```
+连接未建立前，服务器在某一个端口上监听。
+
+客户端是连接的请求方，客户端必须事先知道服务器的地址才能发出连接请求，而服务器则从客户端发来的数据包中获取客户端的地址。
+
+一旦连接建立，服务器就能响应客户端请求的内容，服务器也能主动发送数据给客户端，用于一些消息的通知。
+```
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#613)
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#523)
 
