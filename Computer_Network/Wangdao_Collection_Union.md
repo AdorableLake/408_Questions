@@ -3004,7 +3004,36 @@ D. 20ms, 50ms
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#624)
 
-[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#523)
+## 6.3.3 FTP
+✅08. 当一台计算机从 FTP 服务器下载文件时，该 FTP 服务器上对数据进行封装的 5 个转换步骤是（ ）
+
+```
+A. 比特，数据帧，数据报，数据段，数据
+B. 数据，数据段，数据报，数据帧，比特
+C. 数据报，数据段，数据，比特，数据帧
+D. 数据段，数据报，数据帧，比特，数据
+```
+
+```
+FTP 服务器的数据要经过应用层、传输层、网络层、数据链路层及物理层。
+因此对应的封装是数据、数据段、数据报、数据帧、比特
+```
+
+✅09. 匿名 FTP 访问常使用（ ）作为用户名
+
+```
+A. guest
+B. E-mail 地址
+C. anonymous
+D. 主机 id
+```
+
+```
+针对文件传输 FTP，系统管理员建立了一个特殊的用户 ID，即 anonymous 匿名用户。
+Internet 上的任何人在任何地点都可以使用该用户 ID，只是在用户 ID 处必须输入 anonymous，该用户的密码则可以是任意字串
+```
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#633)
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#523)
 
