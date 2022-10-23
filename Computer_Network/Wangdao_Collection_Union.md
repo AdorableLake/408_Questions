@@ -3053,4 +3053,46 @@ POP3 协议基于 ASCII 码，若要传输非 ASCII 码的数据，则需使用 
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#644)
 
-[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#523)
+## 6.5.3 WWW
+✅05. 万维网上的每个页面都有一个唯一的地址，这些地址统称为（ ）
+
+```
+A. IP 地址
+B. 域名地址
+C. 统一资源定位符
+D. WWW 地址
+```
+
+```
+统一资源定位符负责表示万维网上的各种文档，并使每个文档在整个万维网的范围内具有唯一的标识符 URL
+```
+
+✅06. 使用鼠标单击一个万维网文档时，若该文档除有文本外，还有三幅 gif 图像，则在 HTTP/1.0 中需要建立（ ）次 UDP 连接和（ ）次 TCP 连接
+
+```
+A. 0, 4
+B. 1, 3
+C. 0, 2
+D. 1, 2
+```
+
+```
+HTTP 在传输层用的是 TCP，因此无需建立 UDP 连接；
+
+HTTP/1.0 仅支持非持续连接，因此每请求一个对象都需要建立一次 TCP 连接。
+```
+
+✅07. 仅需 Web 服务器对 HTTP 报文进行相应，但不需要返回请求对象时，HTTP 请求报文应该使用的方法是（ ）
+
+```
+A. GET
+B. PUT
+C. POST
+D. HEAD
+```
+
+```
+使用 HEAD 方法时服务器客队 HTTP 报文进行相应，但不会返回请求对象，其作用主要是调试。
+```
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#653)
