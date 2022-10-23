@@ -32,12 +32,12 @@
 ### [5.2.3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#523-udp--用户数据报协议)
 ### [5.3.7🌟](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#537-tcp)
 
-## [Chapter 6](url)
-### [6.1.3](url)
-### [6.2.4](url)
-### [6.3.3](url)
-### [6.4.4](url)
-### [6.5.3](url)
+## [Chapter 6](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#chapter-6-application-layer)
+### [6.1.3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#613-network-application-models--网络应用模型)
+### [6.2.4](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#624-dns--域名系统)
+### [6.3.3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#633-ftp)
+### [6.4.4](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#644-e-mail--电子邮件)
+### [6.5.3](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#653-www)
 
 # Chapter 1: Computer Network Structure
 ## 1.1.7 Conception | 概述
