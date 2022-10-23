@@ -3035,6 +3035,22 @@ Internet 上的任何人在任何地点都可以使用该用户 ID，只是在�
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#633)
 
-[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#523)
+## 6.4.4 E-mail | 电子邮件
+✅07. 下列关于 POP3 协议的说法，（ ）是错误的
+
+```
+A. 由客户端而非服务器选择接收后是否将邮件保存在服务器上
+B. 登录到服务器后，发送的密码是加密的
+C. 协议是基于 ASCII 码的，不能发送二进制数据
+D. 一个账号在服务器上只能有一个邮件接收目录
+```
+
+```
+POP3 协议在传输层使用铭文来传输密码，并不需要对密码进行加密；
+
+POP3 协议基于 ASCII 码，若要传输非 ASCII 码的数据，则需使用 MIME 将数据转换成 ASCII 码的形式（所以 MIME 通用于电子邮件系统）
+```
+
+[返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#644)
 
 [返回标题行](https://github.com/AdorableLake/408_Questions/blob/main/Computer_Network/Wangdao_Collection_Union.md#523)
