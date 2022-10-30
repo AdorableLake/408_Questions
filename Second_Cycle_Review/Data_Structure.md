@@ -1,5 +1,5 @@
 # Catalog | 目录
-## [Data Structure](url)
+## [Data Structure](https://github.com/AdorableLake/408_Questions/blob/main/Second_Cycle_Review/Data_Structure.md#ds1-linear-table)
 ### [Chapter 1: Linear Table](url)
 ### [Chapter 2: Stack, Queue, Number Sets](url)
 ### [Chapter 3: Tree](url)
@@ -15,8 +15,9 @@
 ### [Chapter 5: ](url)
 ### [Chapter 6: ](url)
 
-# DS.1 Linear Table
-## 单项选择题
+# Data Structure
+## DS.1 Linear Table
+### 单项选择题
 ✅02. 将两个有 n 个元素的有序表归并成一个有序表，其最少的比较次数为（ ）
 
 ```
@@ -94,7 +95,7 @@ D. O(n^(1/2))
 故循环次数 k 满足 (1+k)*k/2 < n，因此时间复杂度为 O(n^(1/2))
 ```
 
-## 综合应用题
+### 综合应用题
 01. 设有两个集合 A、B，设计生成集合 C = A N B 的算法。集合 A、B、C 均使用数组存储。
 1.1. 给出算法的基本设计思想
 1.2. 根据设计思想，采用 C 或 C++ 语言描述算法，关键之处给予注释
