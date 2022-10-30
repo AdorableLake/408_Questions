@@ -1,6 +1,6 @@
 # Catalog | 目录
-## [Data Structure](https://github.com/AdorableLake/408_Questions/blob/main/Second_Cycle_Review/Data_Structure.md#ds1-linear-table)
-### [Chapter 1: Linear Table](url)
+## [Data Structure](https://github.com/AdorableLake/408_Questions/blob/main/Second_Cycle_Review/Data_Structure.md#data-structure-1)
+### [Chapter 1: Linear Table](https://github.com/AdorableLake/408_Questions/blob/main/Second_Cycle_Review/Data_Structure.md#ds1-linear-table)
 ### [Chapter 2: Stack, Queue, Number Sets](url)
 ### [Chapter 3: Tree](url)
 ### [Chapter 4: Graph](url)
