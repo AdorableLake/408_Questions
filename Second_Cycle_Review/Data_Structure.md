@@ -4,8 +4,8 @@
 ### [Chapter 2: Stack, Queue, Number Sets](url)
 ### [Chapter 3: Tree](url)
 ### [Chapter 4: Graph](url)
-### [Chapter 5: Find](url)
-### [Chapter 6: Sort](url)
+### [Chapter 5: Searching](url)
+### [Chapter 6: Sorting](url)
 
 ## [Computer Organization](url)
 ### [Chapter 1: ](url)
