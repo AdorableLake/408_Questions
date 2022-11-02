@@ -7,14 +7,6 @@
 ### [Chapter 5: Searching](https://github.com/AdorableLake/408_Questions/blob/main/Second_Cycle_Review/Data_Structure.md#ds5-searching)
 ### [Chapter 6: Sorting](https://github.com/AdorableLake/408_Questions/blob/main/Second_Cycle_Review/Data_Structure.md#ds6-sorting)
 
-## [Computer Organization](url)
-### [Chapter 1: ](url)
-### [Chapter 2: ](url)
-### [Chapter 3: ](url)
-### [Chapter 4: ](url)
-### [Chapter 5: ](url)
-### [Chapter 6: ](url)
-
 # Data Structure
 ## DS.1 Linear Table
 ### 单项选择题
